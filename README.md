@@ -1,4 +1,6 @@
-# Toki Pona dictionary
+# Toki Pona Dictionary
+
+I don't know if I can maintain this yet; it's just a host for now.
 
 A simple Toki Pona - English dictionary with search function.
 
